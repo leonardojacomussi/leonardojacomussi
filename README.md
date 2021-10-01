@@ -1,6 +1,6 @@
 ### Hi there! 👋🏾
 
-I'm Leonardo Jacomussi, I'm 24 years old and I'm an Acoustic Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil. 🔊
+I'm Leonardo Jacomussi, I'm 25 years old and I'm an Acoustic Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil. 🔊
 
 My interest in development arose during my graduation, when many of the engineering and digital signal processing solutions were implemented in Matlab. 
 👨🏾‍🎓
