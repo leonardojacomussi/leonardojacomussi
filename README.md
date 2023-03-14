@@ -1,12 +1,12 @@
 ### Hi there! 👋🏾
 
-I'm Leonardo Jacomussi, I'm 26 years old and I'm an Acoustic Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil. 🔊
+I'm Leonardo Jacomussi, I'm 26 years old and I'm an Acoustic Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil.
 
-My interest in development arose during my graduation, when many of the engineering and digital signal processing solutions were implemented in Matlab. 
-👨🏾‍🎓
-At the end of the course, the development phase of a graduation project, I developed a SLM (Sound Level Meter) in Python using a Raspberry Pi and other hats that made up the system (see [PySLM][pyslm]). Since then my interest in programming has only increased. Today, at the company I work for, I am part of an Innovation team, where I have the freedom to implement new solutions. 🎤
+My interest in development arose during my graduation, when many of the engineering and digital signal processing solutions were implemented in Matlab.
 
-Currently I'm interested in Python for embedded systems, web frontend, mobile and cloud development, to develop IoT solutions. 💡
+At the end of the course, the development phase of a graduation project, I developed a SLM (Sound Level Meter) in Python using a Raspberry Pi and other hats that made up the system (see [PySLM][pyslm]). Since then my interest in programming has only increased. Today, at the company I work for, I am part of an Innovation team, where I have the freedom to implement new solutions.
+
+Currently I'm interested in Python for embedded systems, web frontend, mobile and cloud development, to develop IoT solutions.
 
 ### My interests 💡
 
