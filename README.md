@@ -1,6 +1,6 @@
 ### Hi there! 👋🏾
 
-I'm Leonardo Jacomussi, I'm 26 years old and I'm an Software Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil.
+I'm Leonardo Jacomussi, I'm 27 years old and I'm an Software Engineer at [@Harmonia-Global][harmonia] in São Paulo, SP - Brazil.
 
 My interest in development arose during my graduation, when many of the engineering and digital signal processing solutions were implemented in Matlab.
 
