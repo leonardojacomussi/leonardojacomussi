@@ -1,6 +1,6 @@
 ### Hi there! 👋🏾
 
-I'm Leonardo Jacomussi, I'm 28 years old and I'm an Software Engineer at [@otoh-ltda][OTOH LTDA] in São Paulo, SP - Brazil.
+I'm Leonardo Jacomussi, I'm 28 years old and I'm an Software Engineer at [OTOH LTDA][otoh] in São Paulo, SP - Brazil.
 
 My interest in development arose during my graduation, when many of the engineering and digital signal processing solutions were implemented in Matlab.
 
@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[harmonia]: <https://github.com/Harmonia-Global>
+[otoh]: <https://github.com/otoh-ltda>
 [pyslm]: <https://github.com/leonardojacomussi/PySLM>
